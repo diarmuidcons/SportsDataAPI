@@ -1,0 +1,43 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      G00398283
+    </ion-title>
+    <button>
+    <ion-icon name="settings" fill = "solid"color = "primary" size="large"(click)="openSettingsPage()">Settings</ion-icon>
+</button>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+	<h1> Quote from {{ author }} about:  </h1>
+	<h3>{{ tags }}</h3>
+	<h2>{{ content }}</h2>
+
+<h1 *ngFor="let c of countries">CountryID is {{ c.name }}</h1>
+<ion-img src="https://flagsapi.com/BA/shiny/64.png"></ion-img>
+<tr>
+	<th>First Name</th>
+	<th>Surname</th>
+	<th>Age</th>
+	<th>Height</th>
+</tr>
+
+
+<ion-list>
+	<ion-item>
+		<tr *ngFor="let s of sport-data">
+			<ion-col>{{ s.firstname }}</ion-col>
+			<ion-col>{{ s.lastname }}</ion-col>
+			<ion-col>{{ s.age }}</ion-col>
+			<ion-col>{{ s.height }}</ion-col>
+			
+		</tr>
+	</ion-item>
+</ion-list>
+
+
+
+
+	
+ 
