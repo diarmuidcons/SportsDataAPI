@@ -12,7 +12,7 @@ Ionic framework V3 was used to complete this project.
 SRC folder must be added to an already existing ionic project. Navigate to the directory using Node.js command prompt, and run using the --ionic serve command
 
 **Resources**
-API resources include:
-  https://api.quotable.io/random
-  https://app.sportdataapi.com/documentation#countryById
-  https://flagsapi.com/***/shiny/64.png
+<br>API resources include:
+  <br>https://api.quotable.io/random  
+  <br>https://app.sportdataapi.com/documentation#countryById
+  <br>https://flagsapi.com/***/shiny/64.png
