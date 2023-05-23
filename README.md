@@ -8,7 +8,7 @@ Ionic framework V3 was used to complete this project.
 - Ionic V3
 - Angular V6.0.0 or above
 
-**How To Run**
+**How To Run**  
 SRC folder must be added to an already existing ionic project. Navigate to the directory using Node.js command prompt, and run using the --ionic serve command
 
 **Resources**
