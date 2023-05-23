@@ -13,6 +13,6 @@ SRC folder must be added to an already existing ionic project. Navigate to the d
 
 **Resources**
 <br>API resources include:
-  <br>https://api.quotable.io/random  
+  <br>https://api.quotable.io/random
   <br>https://app.sportdataapi.com/documentation#countryById
   <br>https://flagsapi.com/***/shiny/64.png
